@@ -1,14 +1,7 @@
 # Teremin-FEMATECH2026
 Projeto que relaciona matemática e música via física ondulatória e acústica e trigonometria na construção de um instrumento musical digital. Sendo o Teremin ideal pois permite a observação clara de fenômenos físicos e matemáticos adaptado com Arduino, sensores ultrassônicos e bibliotecas de interface gráfica e áudio em Python.
 
-
 Desenvolvido para a estande Matemática e Música da FEMATECH III - 2026 no IFCE Campus Fortaleza.
-Um Teremin é um instrumento que originalmente funciona com capacitancia eletrônica e permite que seja tocado sem contato direto com seu material, apenas partindo de pertubações em dois campos eletromagnéticos. 
-Para esta adaptação foi utilizado um micro-controlador Arduino Mega e dois sensores ultrassônicos, que enviam as distancias registradas para a porta USB de uma máquina. Nela está rodando um programa em python que fornece um sintetizador de áudio e uma interface que reflete a onda gerada por ele, além de registrar os processos para cálculo de distancia e de onda senoidal.
-
-(aqui as fotos do evento, do arduino montado, o modelo no tinkercad, um print da interface e um vídeo que mostra uma gravação de tela do computador com o programa funcionando ao mesmo tempo que se passa um vídeo que roda simultaneo mostrando a pessoa tocando o instrumento)
-
-
 
 
 ## Demonstração do Projeto
