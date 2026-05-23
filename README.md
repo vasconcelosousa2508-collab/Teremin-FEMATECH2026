@@ -33,7 +33,9 @@ Desenvolvido para a estande Matemática e Música da FEMATECH III - 2026 no IFCE
 </table>
 
 #### Vídeo
-[![Assista ao Vídeo Demonstrativo](imagens/miniatura_video.jpg)](PROLINK_DO_YOUTUBE_OU_DRIVE_AQUI)
+Assista ao vídeo de demonstração no Youtube!
+
+https://youtube.com/shorts/_QYvsNGNcaA?si=mr_M-RdPKVOYvy8S
 
 ---
 
