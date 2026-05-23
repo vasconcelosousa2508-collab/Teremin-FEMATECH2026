@@ -1,5 +1,5 @@
 # Teremin-FEMATECH2026
-Projeto que relaciona matemática e música via física ondulatória e acústica e trigonometria na construção de um instrumento musical digital. Sendo o Teremin ideal pois permite a observação clara de fenômenos físicos e matemáticos adaptado com Arduino, sensores ultrassônicos e bibliotecas de interface gráfica e áudio em Python.
+Projeto que relaciona matemática e música via física ondulatória e acústica e trigonometria na construção de um instrumento musical digital. Sendo o Teremin ideal pois permite a observação clara de fenômenos físicos e matemáticos. Adaptado com Arduino, sensores ultrassônicos e bibliotecas de interface gráfica e áudio em Python.
 
 Desenvolvido para a estande Matemática e Música da FEMATECH III - 2026 no IFCE Campus Fortaleza.
 
@@ -48,7 +48,11 @@ Para esta adaptação foi utilizado um micro-controlador Arduino Mega e dois sen
 ### Modelagem
 O circuito e o comportamento dos componentes foram planejados e simulados previamente:
 
-![Modelo no Tinkercad](imagens/modelo_tinkercad.png)
+<div display=flex>
+  <img width="575" alt="image" src="https://github.com/user-attachments/assets/693181ee-8c78-414d-a7e2-71523ae00d9c" />
+  <img width="425" alt="IMG_20260521_183702165-EDIT" src="https://github.com/user-attachments/assets/1936eb66-d605-48b6-9c71-dbd97a18c525" />
+</div>
+
 
 ---
 
@@ -59,14 +63,3 @@ Na apresentação deste repositório e durante a exposição na feira, são deta
 * **Física Ondulatória e Acústica:** Como as ondas mecânicas se propagam no ar e de que forma a frequência define o comprimento de onda das notas musicais.
 * **Trigonometria e Funções:** A aplicação prática da função seno na modelagem matemática e geração de áudio digital (onda senoidal).
 * **Distância Acústica:** O cálculo do tempo de retorno do som feito pelos sensores ultrassônicos para rastrear as mãos do voluntário sem contato físico.
-
----
-
-## Fotos do Evento
-
-*Registros da nossa equipe durante a apresentação na FEMATECH III - 2026 no IFCE:*
-
-<p align="center">
-  <img src="imagens/foto_evento1.jpg" width="45%" />
-  <img src="imagens/foto_evento2.jpg" width="45%" />
-</p>
