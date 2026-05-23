@@ -7,16 +7,30 @@ Desenvolvido para a estande Matemática e Música da FEMATECH III - 2026 no IFCE
 ## Demonstração do Projeto
 <table>
   <tr>
-    <td align="center"><b>Interface </b></td>
-    <td align="center"><b>Circuito Físico</b></td>
+    <td align="center" colspan="2"><b>Circuito Físico</b></td>
   </tr>
   <tr>
-    <td><img src="imagens/print_interface.png" width="500" alt="Print da Interface Python"></td>
-    <td><img src="imagens/arduino_montado.jpg" width="500" alt="Foto do Arduino Montado"></td>
+    <td>
+      <img height="805" alt="IMG_20260521_181443927_MP-EDIT" src="https://github.com/user-attachments/assets/203160da-56b9-4426-a93f-79ee0f71f093" />
+    </td>
+    <td>
+      <img height="400" alt="IMG_20260521_183645091-EDIT" src="https://github.com/user-attachments/assets/d9176010-e2d0-4b1e-9a0d-94a0a097f20c" /><br>
+      <img height="408" alt="IMG_20260521_183653178-EDIT" src="https://github.com/user-attachments/assets/674681af-8c71-4de6-ba69-a584c963a213" />
+    </td>
   </tr>
 </table>
 
-#### Demonstração em Vídeo
+<table>
+  <tr>
+    <td align="center"><b>Interface </b></td>
+  </tr>
+  <tr>
+    <td><img width="1920" height="1080" alt="Vol" src="https://github.com/user-attachments/assets/af2ad65b-bff0-4c42-82f7-e536c5025e66" />
+</td>
+  </tr>
+</table>
+
+#### Vídeo
 [![Assista ao Vídeo Demonstrativo](imagens/miniatura_video.jpg)](PROLINK_DO_YOUTUBE_OU_DRIVE_AQUI)
 
 ---
