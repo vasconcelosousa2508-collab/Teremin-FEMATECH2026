@@ -60,6 +60,10 @@ O circuito e o comportamento dos componentes foram planejados e simulados previa
 </div>
 
 
+Veja todos os experimentos e prototipos em um repositório do Git Hub!
+
+https://github.com/vasconcelosousa2508-collab/TereminDigital---Estudos-Prototipos.git
+
 ---
 
 ## Teoria
