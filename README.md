@@ -55,8 +55,8 @@ Para esta adaptação foi utilizado um micro-controlador Arduino Mega e dois sen
 O circuito e o comportamento dos componentes foram planejados e simulados previamente:
 
 <div display=flex>
-  <img width="555" alt="image" src="https://github.com/user-attachments/assets/693181ee-8c78-414d-a7e2-71523ae00d9c" />
-  <img width="405" alt="IMG_20260521_183702165-EDIT" src="https://github.com/user-attachments/assets/1936eb66-d605-48b6-9c71-dbd97a18c525" />
+  <img width="505" alt="image" src="https://github.com/user-attachments/assets/693181ee-8c78-414d-a7e2-71523ae00d9c" />
+  <img width="355" alt="IMG_20260521_183702165-EDIT" src="https://github.com/user-attachments/assets/1936eb66-d605-48b6-9c71-dbd97a18c525" />
 </div>
 
 
